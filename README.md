@@ -1,6 +1,6 @@
 # Fullstack-NoteSquare
 Feel free to leave you attitude ↓
-[DEMO](https://dashboard.heroku.com/apps/phonebook-fullstack-amber/settings)
+[DEMO](https://phonebook-fullstack-amber.herokuapp.com/)
 
 ### About the app
 - the backend and static frontend are hosted in Heroku.
